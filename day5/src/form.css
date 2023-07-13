@@ -1,0 +1,48 @@
+
+h2{
+    text-align: center;
+  }
+  
+  .auth-form-container, .login-form, .register-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+
+.form_label {
+    text-align: left;
+  }
+  
+.form_input {
+    margin: 0.5rem 0;
+    padding: 1rem;
+    border: none;
+    border-radius: 10px;
+    width: 80%;
+  }
+  
+  .link-btn,.submit {
+    border: none;
+    background-color: black;
+    padding:8px;
+    border-radius: 10px;
+    cursor: pointer;
+    color:white;
+    width:90%;
+  }
+  
+  .link-btn {
+    background: none;
+    color: black;
+    text-decoration: underline;
+  }
+  
+  .form_container{
+  
+    margin:10vh 0vh 0vh 30vw;
+    padding: 10px 10px 20px 30px;
+    width:25vw;
+    border: 2px solid black;
+  }
+  
+  
