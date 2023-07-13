@@ -1,0 +1,23 @@
+.navigation{
+    background-color: aqua;
+    float: right;
+    width: 100vw;
+    position:absolute;
+}
+.body{
+    background-image:url("https://i.pngimg.me/thumb/f/720/comrawpixel4012543.jpg");
+    height: 97.5vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.head{
+    padding:300px 200px 300px 200px;
+    margin-left:30%;
+    font-family: Verdana;
+    font-weight:bold;
+    font-size:50px;
+    float: right;
+    /* justify-content: center; */
+    
+    
+}
