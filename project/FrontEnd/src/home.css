@@ -1,0 +1,51 @@
+.navigation{
+    background-color: aqua;
+    float: right;
+    width: 100vw;
+    position:absolute;
+}
+.body{
+    /* background-image:url("https://i.pngimg.me/thumb/f/720/comrawpixel4012543.jpg"); */
+    /* background-image:url("https://img.freepik.com/free-photo/sauce-bottle-oil-tomatoes-with-pedicels-lemon-sauce-garlic_140725-73766.jpg?w=1380&t=st=1689319221~exp=1689319821~hmac=70db2c438d087e3db7d3740e36da56c767b9986578826d7d3a80834690d971cb"); */
+    background-image:url(https://static1.squarespace.com/static/5134cbefe4b0c6fb04df8065/5dcb2d0669b294381f8ffb16/619e7c8606c2b2230c1c0810/1686864156191/?format=1500w);
+    height: 97.5vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.head{
+    padding:300px 200px 300px 200px;
+    margin-left:30%;
+    font-family: Verdana;
+    font-weight:bold;
+    font-size:50px;
+    float: right;
+    color:white;
+    /* justify-content: center; */
+    
+} 
+.redu{
+    color:rgb(133, 240, 241);
+    font-size:30px;
+    font-weight: bolder;
+
+}  
+.divi{
+    background-color: black;
+}
+.redu:hover{
+    color:rgb(133, 212, 133);
+    background-color: black;
+    border-radius: 15px;
+    cursor: pointer;
+
+}
+/* /* .head1{
+    padding:400px 300px 200px 100px;
+    margin-left:30%;
+    font-family: Verdana;
+    font-weight:bold;
+    font-size:30px;
+    
+    /* justify-content: center; */
+    
+    
